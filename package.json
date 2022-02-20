@@ -1,0 +1,23 @@
+{
+  "name": "hardy-express",
+  "version": "1.0.0",
+  "description": "code a express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HHardyy/hardy-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HHardyy/hardy-express/issues"
+  },
+  "homepage": "https://github.com/HHardyy/hardy-express#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
